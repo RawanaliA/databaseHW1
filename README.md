@@ -1,5 +1,5 @@
 # databaseHW1
-# DDL - Create
+
 create database store;
 
 create table  countries (
